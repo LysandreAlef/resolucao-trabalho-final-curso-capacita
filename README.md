@@ -7,11 +7,11 @@
 ## Questões
 
 ##### 1. Faça um programa que receba o nome de um aluno em uma variável e imprima o seguinte cabeçalho:
+
 Capacita Brasil – Ciclo 2
 Disciplina: Lógica de Programação
-Professora: Patr
-Aluno(a):
-
+Professora: Patrícia Vieira
+Aluno(a): 
 
 ##### 2. Faça um programa que crie três variáveis para receber as notas de um aluno e calcule e imprima a média desse aluno.
 
