@@ -28,9 +28,9 @@ Aluno(a):
 
 Organize os módulos da seguinte forma:
 
-- **Módulo principal**
-- **Módulo para manipular arquivo**
-- **Módulo para manipular a lista**
-- **Módulo para imprimir**
+- *Módulo principal*
+- *Módulo para manipular arquivo*
+- *Módulo para manipular a lista*
+- *Módulo para imprimir*
 
 A execução do algoritmo deverá ser feita através de chamada de funções dos módulos.
